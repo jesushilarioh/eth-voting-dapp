@@ -282,4 +282,4 @@ package-lock.json
 .history
 
 # End of https://www.gitignore.io/api/osx,node,macos,solidity,soliditytruffle,visualstudiocode
-/.github
+.github
